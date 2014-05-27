@@ -1,0 +1,117 @@
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 18em;
+}
+#me{
+    position: relative;
+    margin-top: -90px;
+    float: right;
+    margin-right: 230px;
+    width: 55.33px;
+    height: 15.66px;
+}
+
+#micro{
+    position: relative;
+    margin-top: -48px;
+    margin-right: 68px;
+    float: right;
+    width: 16px;
+    height: 22px;
+}
+#container{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+
+li{
+    float: right;
+    display: block;
+    width: 60px;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+
+#top-nav{
+    width: 100%;
+    margin-top: 15px;
+}
+#share{
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:2px;
+    padding-bottom:2px;
+    background-color: #f1f1f1;
+    border: 5px solid transparent;
+    margin-top: -4px;
+    width: 40px;
+}
+.searchbox{
+    width: 45em;
+    height: 7em;
+    margin-left: auto;
+    margin-right: auto;
+}
+#search{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    width: 45em;
+    height: 2.5em;
+}
+#search-option{
+    margin:0 auto;
+    margin-top:10px;
+    text-align: center;
+}
+#search-option button{
+    height: 2.3em;
+    border-radius: 5%;
+    border: 1px solid transparent;
+    margin-top: -15px;
+    background-color: #f1f1f1;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+#footer{
+    position: absolute;
+    
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    background-color: #FFFACD;
+}
+#left{
+    position: relative;
+    text-align: center;
+    width: 55px;
+    float: left;
+    margin: 15px;
+    
+}
+#right{
+    text-align: center;
+    width: 110px;
+    float: right;
+    position: relative;
+    margin: 15px;
+}
+
